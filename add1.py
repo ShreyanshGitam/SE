@@ -1,4 +1,4 @@
-//Weather Prediction Program:
+#Weather Prediction Program:
 import math
 
 temp = [28, 25, 30, 20, 15]
